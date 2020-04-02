@@ -1,0 +1,48 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/stevan/code/dre/DocSearch/annotator/src/" . "dre/")
+ ("/home/stevan/code/dre/DocSearch/annotator/" . "src/")
+ ("/home/stevan/code/dre/DocSearch/" . "annotator/")
+ ("/home/stevan/code/dre/" . "DocSearch/")
+ ("/home/stevan/code/" . "dre/")
+ ("/home/stevan/" . "code/")
+ ("/home/" . "stevan/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/stevan/code/dre/DocSearch/annotator/src/dre/"
+ "/home/stevan/.emacs.d/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "dev.clj"
+ "init.el"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/stevan/code/dre/DocSearch/annotator/src/dre/" (24189 64971 394206 753000) "triplestore/" "document/" "term_vocabulary.clj" "index/" "queue.clj" "io.clj" "standalone.clj" "task/" "lmdb.clj" "sense_vocabulary.clj" "annotator.clj" "rpc.clj" "dev.clj" "./" "profile.clj" "index.clj" "spec.clj" "system.clj" "vocabulary/" "nlp/" "stats.clj" "subject_vocabulary.clj" "sense_graph.clj" "convert/" "dict/" "service.clj" "csv_util.clj" "specs.clj" "annotator/" "../" "dict.clj")
+
+ ("/home/stevan/code/dre/DocSearch/annotator/src/" (24176 64102 355329 916000) "./" "dre/" "config.clj" "../" "sentry.properties")
+
+ ("/home/stevan/code/dre/DocSearch/annotator/" (24194 10927 745595 968000) "test-resources/" ".clj-kondo/" ".gitignore" "msgdump/" "models/" "build.boot" "resources/" "src/" "test/" "./" ".nrepl-history" "cache/" "deploy/" "boot" "logs/" "../" "lib/" "README.adoc" ".boot-jvm-options")
+
+ ("/home/stevan/code/dre/DocSearch/" (24189 64971 398206 853000) "triplestore/" "app/" "elasticsearch/" "triplestore_import/" "graphite/" "genseng/" ".gitignore" ".git/" "common/" "./" "dictv1.zdict" "doc/" "sourire/" "feeds/" ".idea/" "postgres/" "relstore/" "deploy/" "ml/" "meas/" "experiments/" "integration/" "lvg/" "monitoring_elk/" "annotator/" "../" "bundle.edn" "README.adoc")
+
+ ("/home/stevan/code/dre/" (24128 12216 46197 444000) "./" "../" "DocSearch/")
+
+ ("/home/stevan/code/" (24124 26421 62819 12000) "./" "dre/" "../")
+
+ ("/home/" (24129 20141 296313 843000) "./" "stevan/" "../" "linuxbrew/")
+
+ ("/home/stevan/.emacs.d/" (24194 35701 886135 392000) "projectile-bookmarks.eld" ".recentf" ".smex-items" "auto-save-list/" "elpa/" "init.el" "./" "init.el~" "../" "customizations/")
+
+ ("/home/stevan/" (24194 35652 464796 905000) "Public/" ".thunderbird/" ".zsh_history" "LocationAPI.dll" ".cache/" ".profile" "evoga.txt" ".gitconfig" "Games/" ".zcompdump-schmy-gpu-5.4.2" ".conda/" ".steampath" ".jupyter/" ".m2/" ".mono/" "stevan.kdbx" ".wine/" ".pam_environment" "snap/" ".keras/" ".IdeaIC2019.3/" ".clojure/" ".ipython/" ".bash_logout" ".local/" "Documents/" "code/" ".boot/" ".zcompdump" "VirtualBox VMs/" ".zsh-syntax-highlighting/" "Desktop/" ".ICEauthority" "data/" ".pulse-cookie" ".mozilla/" ".zoom/" ".gphoto/" "nltk_data/" "./" "Steam/" ".profile~" "miniconda3/" ".bashrc" "Videos/" ".steampid" ".wget-hsts" ".oh-my-zsh/" ".ssh/" ".python_history-22915.tmp" ".pki/" ".GameGuide/" ".nv/" "FiraxisLive/" ".gnupg/" ".android/" "winehq.key" "examples.desktop" ".gnome/" ".config/" "Pictures/" ".QtWebEngineProcess/" ".bash_history" ".oracle_jre_usage/" ".zshrc" ".sudo_as_admin_successful" "IdeaProjects/" ".java/" "Downloads/" "../" ".docker/" ".bashrc~" "Music/" ".emacs.d/" "Templates/" ".python_history" ".steam/")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
