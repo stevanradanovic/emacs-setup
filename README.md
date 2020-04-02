@@ -1,2 +1,2 @@
-# stevan.radanovic-gmail.com
+# Emacs Setup
 emacs-setup
